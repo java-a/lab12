@@ -127,7 +127,7 @@ pane.getChildren().add(labelFirstName);
 
 
 
-## Problem 2: Heron and Triangle 
+## Problem 1: Heron and Triangle 
 
 We need to complete a similar GUI in problem 2. Here we should judge whether 3 numbers can construct a triangle and calculate the area of this triangle.
 
