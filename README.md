@@ -141,6 +141,8 @@ We can use Heron's formula to calculate the area.
 
 where **s = (a + b + c) * 0.5**.
 
+You should also show the information when the edges cannot construct a triangle.
+
 ## Submission
 
 **Deadline:** Tuesday, 2016.12.13 23:59:59 (UTC+8)
