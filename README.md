@@ -15,9 +15,9 @@ Below is the application expected. And because you have not learned `Exception` 
 
 There can be some input exceptions, for example, illegal characters in the name or illegal input date.
 
-So we create a class `FormatException ` to deal with these illegal input. We use `NameFormatException` to indicate illegal characters, and `NumberFormatException` to indicate illegal date.
+So we create a class `FormatException ` to deal with these illegal inputs. We use `NameFormatException` to indicate illegal characters, and `NumberFormatException` to indicate illegal date.
 
-For a exception class defined by yourself, it has to extend from `Exception`
+For a exception class defined by yourself, it has to be extended from `Exception`
 
 ```java
 public class FormatException extends Exception {
@@ -66,7 +66,7 @@ And the `Controller` is used by the `eventHandler` of a GUI.
 
 > Reference [this website](http://www.prokerala.com/numerology/lucky-numbers.php) to calculate your lucky number >_<
 
-There are 3 basic components in this application: Label, TextField, and Button. And you can choose a specific layout in your application, we use `GridPane` as an example.
+There are 3 basic components in this application: **Label**, **TextField**, and **Button**. And you can choose a specific **Pane** in your application, we use `GridPane` as an example.
 
 #### Lable
 
