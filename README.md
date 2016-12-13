@@ -143,7 +143,7 @@ where **s = (a + b + c) * 0.5**.
 
 You should also show the information when the edges cannot construct a triangle.
 
-# Easter egg
+## Easter egg
 
 After you finish this lab, come to TAs for the Google Cardboard! Have fun! :)
 ![image](https://cloud.githubusercontent.com/assets/7262715/21125027/7d2c19c6-c11d-11e6-95fb-c0005f0c8b23.png)
